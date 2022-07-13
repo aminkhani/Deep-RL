@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://github.com/aminkhani/" targert="_blacnk">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge" />
   </a>
 </div>
 <br />
@@ -87,9 +87,9 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
   - <a href="https://www.coursera.org/learn/complete-reinforcement-learning-system?specialization=reinforcement-learning" taget="_blank">:white_check_mark::100:A Complete Reinforcement Learning System (Capstone)</a>
 > <a href="https://www.coursera.org/specializations/reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Read More-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read More Badge"/></a>
 
-``` 2. Become a Deep Reinforcement Learning Expert ```
+``` 2. Become a Deep Reinforcement Learning Expert ``` <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6">
 > Learn the deep reinforcement learning skills that are powering amazing advances in AI. Then start applying these to applications like video games and robotics.
-* :white_check_mark::100:Presented by UDACITY - Nanodegree Program <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6">
+* :white_check_mark::100:Presented by UDACITY - Nanodegree Program 
 > <a href="https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893" targert="_blacnk"><img src="https://img.shields.io/badge/Read More-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read More Badge"/></a>
 
 <div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>

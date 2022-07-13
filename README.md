@@ -69,9 +69,13 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 * :white_check_mark::100:Bernhard Schölkopf. "Learning to see and act." Nature518, pages486–487 (2015)
 > <a href="https://www.cs.swarthmore.edu/~meeden/cs63/s15/nature15a.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
-``` 3. Combination of financial trading and RL```
-* :white_check_mark::100:Xing Wua, et al. "Adaptive stock trading strategies with deep reinforcement learning methods" Information Sciences Volume 538
+``` 3. Combination of financial trading and RL ```
+* :white_check_mark::100:Xing Wua, et al. "Adaptive stock trading strategies with deep reinforcement learning methods." Information Sciences Volume 538
 > <a href="https://doi.org/10.1016/j.ins.2020.05.066" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+
+``` 4. Deep neural networks and tree search ```
+* :white_check_mark::100:David Silver, et al. "Mastering the game of Go with deep neural networks and tree search." Nature volume 529, pages484–489 (2016)
+> <a href="https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 <div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 

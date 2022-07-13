@@ -47,7 +47,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 * Geek
 > <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=download&logoColor=white" alt="Download Badge"/></a>
 
-<div  align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=up&logoColor=white" alt="up Badge"/></a></div>
+<div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=up&logoColor=white" alt="up Badge"/></a></div>
 
 # Articles
 ``` 1. The first introduced the Deep Q-Learning algorithm ```
@@ -58,11 +58,15 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 * Bernhard Schölkopf. "Learning to see and act." Nature518, pages486–487 (2015)
 > <a href="https://www.cs.swarthmore.edu/~meeden/cs63/s15/nature15a.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=download&logoColor=white" alt="Download Badge"/></a>
 
-<div  align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=up&logoColor=white" alt="up Badge"/></a></div>
+``` 3.  ```
+* Xing Wua, et al. "Adaptive stock trading strategies with deep reinforcement learning methods" Information Sciences Volume 538
+> <a href="https://doi.org/10.1016/j.ins.2020.05.066" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=download&logoColor=white" alt="Download Badge"/></a>
+
+<div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=up&logoColor=white" alt="up Badge"/></a></div>
 
 # Courses
 
-<div  align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=up&logoColor=white" alt="up Badge"/></a></div>
+<div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=up&logoColor=white" alt="up Badge"/></a></div>
 
 # Blogs
 

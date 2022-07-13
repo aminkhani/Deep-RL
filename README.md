@@ -106,10 +106,15 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
   
 * ### Policy-Based Methods
   <a href="https://medium.com/intro-to-artificial-intelligence/reinforce-a-policy-gradient-based-reinforcement-learning-algorithm-84bde440c816">:link: REINFORCE — a policy-gradient based reinforcement Learning algorithm</a><br>
-  <a href="https://medium.com/intro-to-artificial-intelligence/the-actor-critic-reinforcement-learning-algorithm-c8095a655c14">:link: The Actor-Critic Reinforcement Learning algorithm</a>
+  <a href="https://medium.com/intro-to-artificial-intelligence/the-actor-critic-reinforcement-learning-algorithm-c8095a655c14">:link: The Actor-Critic Reinforcement Learning algorithm</a><br>
+  <a href="https://towardsdatascience.com/policy-based-reinforcement-learning-the-easy-way-8de9a3356083">:link: Policy Based Reinforcement Learning, the Easy Way</a><br>
+  <a href="https://towardsdatascience.com/revisiting-policy-in-reinforcement-learning-for-developers-43cd2b713182">:link: Reinforcement Learning Policy for Developers<a><br>
+  <a href="https://www.freecodecamp.org/news/an-introduction-to-policy-gradients-with-cartpole-and-doom-495b5ef2207f/">:link: An introduction to Policy Gradients with Cartpole and Doom</a><br>
+<!--  <a href="">:link:</a> -->
   
 * ### Relevant and attractive content
   <a href="https://www.technologyreview.com/2016/03/18/161519/this-factory-robot-learns-a-new-job-overnight/" target="_blanck">:link: This   Factory Robot Learns a New Job Overnight</a><br>
+  
 
 <div  align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 

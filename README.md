@@ -22,9 +22,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Reinforcement learning</h3>
+  <h1 align="center">Reinforcement learning</h1>
   <p align="center">
-    A reference for <strong>Books</strong>, <strong>Articles</strong>, <strong>Courses</strong> and <strong>Educational      Materials</strong> in this field
+    A reference for <strong>Books</strong>, <strong>Articles</strong>, <strong>Courses</strong> and <strong>Educational Materials</strong> in this field
     <br />
     <br />
     <a href="">Books</a>
@@ -38,3 +38,35 @@
 </div><br /><br />
 
 ## What is Reinforcement Learning(RL)?
+Reinforcement learning (RL) is a field of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.
+
+> You can also read below blog to understand the key concepts in Reinforcement Learning
+>> https://medium.com/intro-to-artificial-intelligence/key-concepts-in-reinforcement-learning-2af715dfbfa
+
+<br />
+
+## Books
+
+``` 1. The main and reference of most books and articles ```
+
+* Reinforcement Learning: An Introduction - second edition - Richard S. Sutton and Andrew G. Barto
+> <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=download&logoColor=white" alt="Download Badge"/>https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf</a>
+<br />
+
+``` 2. Practice implementing the RL algorithms in python ```
+
+* Geek
+> <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=download&logoColor=white" alt="Download Badge"/>https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf</a>
+<br />
+
+3. third
+
+## Articles
+
+<br />
+
+## Courses
+
+<br />
+
+## Blogs

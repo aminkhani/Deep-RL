@@ -1,13 +1,40 @@
-# Fundamentals of Reinforcement Learning 
-### by University of Alberta & Alberta Machine Intelligence Institute
-Reinforcement Learning is a subfield of Machine Learning, but is also a general purpose formalism for automated decision-making and AI. This course introduces you to statistical learning techniques where an agent explicitly takes actions and interacts with the world. Understanding the importance and challenges of learning agents that make decisions is of vital importance today, with more and more companies interested in interactive agents and intelligent decision-making. 
+<div align="center">
 
-This course introduces you to the fundamentals of Reinforcement Learning. When you finish this course, you will:
-- Formalize problems as Markov Decision Processes 
-- Understand basic exploration methods and the exploration/exploitation tradeoff
-- Understand value functions, as a general-purpose tool for optimal decision-making
-- Know how to implement dynamic programming as an efficient solution approach to an industrial control problem
+  <a href="https://www.linkedin.com/in/aminkhani-ai/" targert="_blacnk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="mailto:aminkhani2010@gmail.com" targert="_blacnk">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  
+  <a href="https://t.me/aminkhani_ai" targert="_blacnk">
+    <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>  
+  
+  <a href="https://www.instagram.com/aminkhani_ai/" targert="_blacnk">
+    <img src="https://img.shields.io/badge/Instagram-FD1D1D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  
+</div>
 
-This course teaches you the key concepts of Reinforcement Learning, underlying classic and modern algorithms in RL. After completing this course, you will be able to start using RL for real problems, where you have or can specify the MDP. 
 
-This is the first course of the Reinforcement Learning Specialization.
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <h3 align="center">Reinforcement learning</h3>
+  <p align="center">
+    A reference for <strong>Books</strong>, <strong>Articles</strong>, <strong>Courses</strong> and <strong>Educational      Materials</strong> in this field
+    <br />
+    <br />
+    <a href="">Books</a>
+    ·
+    <a href="">Articles</a>
+    ·
+    <a href="">Courses</a>
+    .
+    <a href="">Blogs</a>
+  </p>
+</div><br /><br />
+
+## What is Reinforcement Learning(RL)?

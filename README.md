@@ -40,12 +40,12 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 # Books
 
 ``` 1. The main and reference of most books and articles ```
-* Reinforcement Learning: An Introduction - second edition - Richard S. Sutton and Andrew G. Barto
+* Reinforcement Learning: An Introduction - Second Edition - Richard S. Sutton and Andrew G. Barto
 > <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=download&logoColor=white" alt="Download Badge"/></a>
 
-``` 2. Practice implementing the RL algorithms in python ```
-* Geek
-> <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=download&logoColor=white" alt="Download Badge"/></a>
+``` 2. Deep Reinforcement Learning ```
+* Deep Reinforcement Learning with Python - Second Edition - Sudharsan Ravichandiran
+> <a href="https://www.packtpub.com/product/deep-reinforcement-learning-with-python-second-edition/9781839210686" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=download&logoColor=white" alt="Download Badge"/></a>
 
 <div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=up&logoColor=white" alt="up Badge"/></a></div>
 

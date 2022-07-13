@@ -19,13 +19,13 @@
     A reference for <strong>Books</strong>, <strong>Articles</strong>, <strong>Courses</strong> and <strong>Educational Materials</strong> in this field
     <br />
     <br />
-    <a href="https://github.com/aminkhani/Reinforcement-Learning/main/README.md#books">Books</a>
+    <a href="https://github.com/aminkhani/Reinforcement-Learning#books">Books</a>
     ·
-    <a href="https://github.com/aminkhani/Reinforcement-Learning/main/README.md#articles">Articles</a>
+    <a href="https://github.com/aminkhani/Reinforcement-Learning#articles">Articles</a>
     ·
-    <a href="https://github.com/aminkhani/Reinforcement-Learning/main/README.md#courses">Courses</a>
+    <a href="https://github.com/aminkhani/Reinforcement-Learning#courses">Courses</a>
     .
-    <a href="https://github.com/aminkhani/Reinforcement-Learning/main/README.md#blogs">Blogs</a>
+    <a href="https://github.com/aminkhani/Reinforcement-Learning#blogs">Blogs</a>
   </p>
 </div><br /><br />
 

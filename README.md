@@ -58,7 +58,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 * Bernhard Schölkopf. "Learning to see and act." Nature518, pages486–487 (2015)
 > <a href="https://www.cs.swarthmore.edu/~meeden/cs63/s15/nature15a.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=download&logoColor=white" alt="Download Badge"/></a>
 
-``` 3.  ```
+``` 3. Combination of financial trading and RL```
 * Xing Wua, et al. "Adaptive stock trading strategies with deep reinforcement learning methods" Information Sciences Volume 538
 > <a href="https://doi.org/10.1016/j.ins.2020.05.066" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=download&logoColor=white" alt="Download Badge"/></a>
 

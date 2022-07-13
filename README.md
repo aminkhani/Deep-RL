@@ -97,11 +97,15 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 # :computer: Blogs
 
 * ### Value-Based Methods
-
+  <a href="https://medium.com/intro-to-artificial-intelligence/q-learning-a-value-based-reinforcement-learning-algorithm-272706d835cf">:link: Q-learning: a value-based reinforcement learning algorithm</a><br>
+  <a href="https://medium.com/intro-to-artificial-intelligence/deep-q-network-dqn-applying-neural-network-as-a-functional-approximation-in-q-learning-6ffe3b0a9062">:link: Deep Q Network(DQN)- Applying Neural Network as a functional approximation in Q-learning</a>
+  
 * ### Policy-Based Methods
-
+  <a href="https://medium.com/intro-to-artificial-intelligence/reinforce-a-policy-gradient-based-reinforcement-learning-algorithm-84bde440c816">:link: REINFORCE — a policy-gradient based reinforcement Learning algorithm</a><br>
+  <a href="https://medium.com/intro-to-artificial-intelligence/the-actor-critic-reinforcement-learning-algorithm-c8095a655c14">:link: The Actor-Critic Reinforcement Learning algorithm</a>
+  
 * ### Relevant and attractive content
-  - <a href="https://www.technologyreview.com/2016/03/18/161519/this-factory-robot-learns-a-new-job-overnight/" target="_blanck">:link: This Factory Robot Learns a New Job Overnight</a>
+  <a href="https://www.technologyreview.com/2016/03/18/161519/this-factory-robot-learns-a-new-job-overnight/" target="_blanck">:link: This   Factory Robot Learns a New Job Overnight</a><br>
 
 <div  align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 

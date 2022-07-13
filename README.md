@@ -47,7 +47,6 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 * Geek
 > <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=download&logoColor=white" alt="Download Badge"/></a>
 
-``` 3. third ```
 
 # Articles
 ``` 1. The first introduced the Deep Q-Learning algorithm ```

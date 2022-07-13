@@ -74,7 +74,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 > <a href="https://doi.org/10.1016/j.ins.2020.05.066" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ``` 4. Deep neural networks and tree search ```
-* :white_check_mark::100:David Silver, et al. "Mastering the game of Go with deep neural networks and tree search." Nature volume 529, pages484–489 (2016)
+* :white_check_mark::100:David Silver, et al. "Mastering the game of Go with deep neural networks and tree search." Nature529, pages484–489 (2016)
 > <a href="https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 <div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>

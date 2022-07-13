@@ -37,7 +37,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 
 <br />
 
-## Books
+# Books
 
 ``` 1. The main and reference of most books and articles ```
 * Reinforcement Learning: An Introduction - second edition - Richard S. Sutton and Andrew G. Barto
@@ -49,7 +49,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 
 ``` 3. third ```
 
-## Articles
+# Articles
 ``` 1. The first introduced the Deep Q-Learning algorithm ```
 * Mnih, Volodymyr, et al. "Human-level control through deep reinforcement learning." Nature518.7540 (2015): 529
 > <a href="http://www.davidqiu.com:8888/research/nature14236.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=download&logoColor=white" alt="Download Badge"/></a>
@@ -58,10 +58,6 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 * Bernhard Schölkopf. "Learning to see and act." Nature518, pages486–487 (2015)
 > <a href="https://www.cs.swarthmore.edu/~meeden/cs63/s15/nature15a.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=download&logoColor=white" alt="Download Badge"/></a>
 
+# Courses
 
-
-## Courses
-
-<br />
-
-## Blogs
+# Blogs

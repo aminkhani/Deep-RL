@@ -96,5 +96,12 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 
 # :computer: Blogs
 
+* ### Value-Based Methods
+
+* ### Policy-Based Methods
+
+* ### Relevant and attractive content
+  - <a href="https://www.technologyreview.com/2016/03/18/161519/this-factory-robot-learns-a-new-job-overnight/" target="_blanck">:link: This Factory Robot Learns a New Job Overnight</a>
+
 <div  align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 

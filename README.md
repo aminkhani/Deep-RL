@@ -100,9 +100,13 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 
 # :computer: Blogs
 
+* ### Deep Reinforcement Learning
+  <a href="https://www.freecodecamp.org/news/an-introduction-to-deep-q-learning-lets-play-doom-54d02d8017d8">:link: An introduction to Deep Q-Learning: let’s play Doom</a><br>
+
 * ### Value-Based Methods
   <a href="https://medium.com/intro-to-artificial-intelligence/q-learning-a-value-based-reinforcement-learning-algorithm-272706d835cf">:link: Q-learning: a value-based reinforcement learning algorithm</a><br>
-  <a href="https://medium.com/intro-to-artificial-intelligence/deep-q-network-dqn-applying-neural-network-as-a-functional-approximation-in-q-learning-6ffe3b0a9062">:link: Deep Q Network(DQN)- Applying Neural Network as a functional approximation in Q-learning</a>
+  <a href="https://medium.com/intro-to-artificial-intelligence/deep-q-network-dqn-applying-neural-network-as-a-functional-approximation-in-q-learning-6ffe3b0a9062">:link: Deep Q Network(DQN)- Applying Neural Network as a functional approximation in Q-learning</a><br>
+  <a href="https://www.freecodecamp.org/news/diving-deeper-into-reinforcement-learning-with-q-learning-c18d0db58efe">:link: Diving deeper into Reinforcement Learning with Q-Learning</a><br>
   
 * ### Policy-Based Methods
   <a href="https://medium.com/intro-to-artificial-intelligence/reinforce-a-policy-gradient-based-reinforcement-learning-algorithm-84bde440c816">:link: REINFORCE — a policy-gradient based reinforcement Learning algorithm</a><br>

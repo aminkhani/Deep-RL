@@ -107,6 +107,11 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 * :white_check_mark::100:Presented by UDACITY - Nanodegree Program 
 > <a href="https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893" targert="_blacnk"><img src="https://img.shields.io/badge/Read More-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read More Badge"/></a>
 
+``` 3. DeepMind x UCL | Deep Learning Lecture Series 2021 ``` <img src="https://img.shields.io/badge/Deepmind-2962FF?style=for-the-badge&logo=Microsoft-edge&logoColor=15B8E6">
+> The Deep Learning Lecture Series is a collaboration between DeepMind and the UCL Centre for Artificial Intelligence..
+* :white_check_mark::100:Presented by DeepMind & UCL
+> <a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm" targert="_blacnk"><img src="https://img.shields.io/badge/Read More-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read More Badge"/></a>
+> 
 <div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 
 # :computer: Blogs

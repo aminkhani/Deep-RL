@@ -147,7 +147,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 
 # :gear: Projects
   ### ``` 1- Space Invader ```
-  <img src="Space-Invader/DQN/spaceinvader.gif" height=350 width=50% />
+  <img src="Space-Invader/DQN/spaceinvader.gif" height=400 width=70% />
   
   > **Note** 
   > In this environment, the observation is an RGB image of the screen, which is an array of shape (210, 160, 3) Each action is repeatedly performed for a duration of k frames, where k is uniformly sampled from {2, 3, 4}. Our Target is to maximize our score.
@@ -155,7 +155,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
   <a href="Space-Invader/DQN" targert="_blacnk"><img src="https://img.shields.io/badge/See The Project-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
   
   ### ``` 2- Ping Pong ```
-  <img src="ping-pong.gif" height=350 width=50% />
+  <img src="ping-pong.gif" height=400 width=70% />
   
   > **Note** 
   > 

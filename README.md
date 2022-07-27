@@ -30,7 +30,7 @@
     .
     <a href="https://github.com/aminkhani/Reinforcement-Learning#computer-blogs">Blogs</a>
     .
-    <a href="https://github.com/aminkhani/Reinforcement-Learning#gear">Projects</a>
+    <a href="https://github.com/aminkhani/Reinforcement-Learning#gear-projects">Projects</a>
   </p>
 </div><br /><br />
 

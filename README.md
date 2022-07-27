@@ -29,6 +29,8 @@
     <a href="https://github.com/aminkhani/Reinforcement-Learning#mortar_board-courses">Courses</a>
     .
     <a href="https://github.com/aminkhani/Reinforcement-Learning#computer-blogs">Blogs</a>
+    .
+    <a href="https://github.com/aminkhani/Reinforcement-Learning#gear">Projects</a>
   </p>
 </div><br /><br />
 
@@ -143,3 +145,6 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 
 <div  align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 
+# :gear: Projects
+
+<div  align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>

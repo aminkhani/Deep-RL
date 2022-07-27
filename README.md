@@ -146,8 +146,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 <div  align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 
 # :gear: Projects
-<video width="320" height="240" controls>
-  <source src="Space-Invader/DQN/openaigym.video.1.1553.video000000.mp4" type="video/mp4">
-</video>
+  ![](Space-Invader/DQN/space-invader.gif)
+
 
 <div  align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>

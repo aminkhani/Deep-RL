@@ -146,7 +146,20 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 <div  align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 
 # :gear: Projects
-  ![](Space-Invader/DQN/space-invader.gif)
-
+  ### ``` 1- Space Invader ```
+  <img src="Space-Invader/DQN/spaceinvader.gif" height=450 width=600 />
+  
+  > **Note** 
+  > In this environment, the observation is an RGB image of the screen, which is an array of shape (210, 160, 3) Each action is repeatedly performed for a duration of k frames, where k is uniformly sampled from {2, 3, 4}. Our Target is to maximize our score.
+  
+  <a href="Space-Invader/DQN" targert="_blacnk"><img src="https://img.shields.io/badge/See The Project-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+  
+  ### ``` 2- Ping Pong ```
+  <img src="ping-pong.gif" height=450 width=600 />
+  
+  > **Note** 
+  > 
+  
+  <a href="" targert="_blacnk"><img src="https://img.shields.io/badge/See The Project-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 <div  align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>

@@ -151,7 +151,7 @@ plt.show()
 
 
     
-![png](output_13_1.png)
+![png](/img/output_13_1.png)
     
 
 
@@ -200,7 +200,7 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![png](/img/output_17_0.png)
     
 
 
@@ -290,7 +290,7 @@ plt.plot([epsilon_by_epsiode(i) for i in range(1000)])
 
 
     
-![png](output_27_1.png)
+![png](/img/output_27_1.png)
     
 
 
@@ -341,7 +341,7 @@ scores = train(1000)
 
 
     
-![png](output_29_1.png)
+![png](/img/output_29_1.png)
     
 
 
@@ -350,7 +350,7 @@ scores = train(1000)
 
 
     
-![png](output_29_3.png)
+![png](/img/output_29_3.png)
     
 
 
@@ -359,7 +359,7 @@ scores = train(1000)
 
 
     
-![png](output_29_5.png)
+![png](/img/output_29_5.png)
     
 
 
@@ -368,7 +368,7 @@ scores = train(1000)
 
 
     
-![png](output_29_7.png)
+![png](/img/output_29_7.png)
     
 
 
@@ -377,7 +377,7 @@ scores = train(1000)
 
 
     
-![png](output_29_9.png)
+![png](/img/output_29_9.png)
     
 
 
@@ -386,7 +386,7 @@ scores = train(1000)
 
 
     
-![png](output_29_11.png)
+![png](/img/output_29_11.png)
     
 
 
@@ -395,7 +395,7 @@ scores = train(1000)
 
 
     
-![png](output_29_13.png)
+![png](/img/output_29_13.png)
     
 
 
@@ -404,7 +404,7 @@ scores = train(1000)
 
 
     
-![png](output_29_15.png)
+![png](/img/output_29_15.png)
     
 
 
@@ -413,7 +413,7 @@ scores = train(1000)
 
 
     
-![png](output_29_17.png)
+![png](/img/output_29_17.png)
     
 
 
@@ -423,13 +423,13 @@ scores = train(1000)
 
 
     
-![png](output_29_19.png)
+![png](/img/output_29_19.png)
     
 
 
 
     
-![png](output_29_20.png)
+![png](/img/output_29_20.png)
     
 
 

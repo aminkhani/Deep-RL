@@ -159,7 +159,7 @@ plt.show()
 
 
     
-![png](output_14_1.png)
+![png](img/output_14_1.png)
     
 
 
@@ -197,7 +197,7 @@ random_play()
 
 
     
-![png](output_16_1.png)
+![png](img/output_16_1.png)
     
 
 
@@ -217,7 +217,7 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![png](img/output_18_0.png)
     
 
 
@@ -299,7 +299,7 @@ plt.plot([epsilon_by_epsiode(i) for i in range(1000)])
 
 
     
-![png](output_28_1.png)
+![png](img/output_28_1.png)
     
 
 
@@ -346,7 +346,7 @@ scores = train(1000)
 
 
     
-![png](output_30_0.png)
+![png](img/output_30_0.png)
     
 
 
@@ -442,7 +442,7 @@ plt.show()
 
 
     
-![png](output_32_0.png)
+![png](img/output_32_0.png)
     
 
 

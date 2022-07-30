@@ -154,7 +154,13 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
   
   <a href="Space-Invader/DQN/" targert="_blacnk"><img src="https://img.shields.io/badge/See The Project with DQN-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a> <a href="Space-Invader/DDQN/" targert="_blacnk"><img src="https://img.shields.io/badge/See The Project with DDQN-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a> <a href="Space-Invader/PG/" targert="_blacnk"><img src="https://img.shields.io/badge/See The Project with PG-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
   
-  ### ``` 2- Ping Pong ```
+  ### ``` 2- Frozen Lake ```
+  <img src="Frozen-Lake/Q-Learning/frozen_lake.gif" height=400 width=70% />
+  
+  > **Note** 
+  <a href="Frozen-Lake/Q-Learning/" targert="_blacnk"><img src="https://img.shields.io/badge/See The Project with DQN-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+  
+  ### ``` 3- Ping Pong ```
   <img src="ping-pong.gif" height=400 width=70% />
   
   > **Note** 

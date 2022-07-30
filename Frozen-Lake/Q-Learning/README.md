@@ -20,11 +20,6 @@ import time
 ```python
 env = gym.make("FrozenLake-v1", render_mode='human')
 ```
-
-    c:\Users\Amin\AppData\Local\Programs\Python\Python310\lib\site-packages\gym\core.py:329: DeprecationWarning: [33mWARN: Initializing wrapper in old step API which returns one bool instead of two. It is recommended to set `new_step_api=True` to use new step API. This will be the default behaviour in future.[0m
-      deprecation(
-    c:\Users\Amin\AppData\Local\Programs\Python\Python310\lib\site-packages\gym\wrappers\step_api_compatibility.py:39: DeprecationWarning: [33mWARN: Initializing environment in old step API which returns one bool instead of two. It is recommended to set `new_step_api=True` to use new step API. This will be the default behaviour in future.[0m
-      deprecation(
     
 
 ## Step 2: Create the Q-table and initialize it 

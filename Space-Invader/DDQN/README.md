@@ -116,16 +116,6 @@ Initialize the environment in the code cell below.
 env = gym.make('SpaceInvaders-v4', render_mode="human") # for run in PC
 env.seed(0)
 ```
-
-    c:\Users\Amin\AppData\Local\Programs\Python\Python310\lib\site-packages\gym\core.py:329: DeprecationWarning: [33mWARN: Initializing wrapper in old step API which returns one bool instead of two. It is recommended to set `new_step_api=True` to use new step API. This will be the default behaviour in future.[0m
-      deprecation(
-    c:\Users\Amin\AppData\Local\Programs\Python\Python310\lib\site-packages\gym\wrappers\step_api_compatibility.py:39: DeprecationWarning: [33mWARN: Initializing environment in old step API which returns one bool instead of two. It is recommended to set `new_step_api=True` to use new step API. This will be the default behaviour in future.[0m
-      deprecation(
-    
-
-
-
-
     (2968811710, 3677149159)
 
 
@@ -186,14 +176,6 @@ def random_play():
 random_play()
 ```
 
-    c:\Users\Amin\AppData\Local\Programs\Python\Python310\lib\site-packages\gym\core.py:51: DeprecationWarning: [33mWARN: The argument mode in render method is deprecated; use render_mode during environment initialization instead.
-    See here for more information: https://www.gymlibrary.ml/content/api/[0m
-      deprecation(
-    c:\Users\Amin\AppData\Local\Programs\Python\Python310\lib\site-packages\gym\utils\passive_env_checker.py:297: UserWarning: [33mWARN: No render fps was declared in the environment (env.metadata['render_fps'] is None or not defined), rendering may occur at inconsistent fps.[0m
-      logger.warn(
-    c:\Users\Amin\AppData\Local\Programs\Python\Python310\lib\site-packages\gym\utils\passive_env_checker.py:227: DeprecationWarning: [33mWARN: Core environment is written in old step API which returns one bool instead of two. It is recommended to rewrite the environment with new step API. [0m
-      logger.deprecation(
-    
 
 
     
@@ -352,72 +334,7 @@ scores = train(1000)
 
     Episode 48	Average Score: 183.75	Epsilon: 0.62
 
-
-    ---------------------------------------------------------------------------
-
-    KeyboardInterrupt                         Traceback (most recent call last)
-
-    d:\RL\space_invader_ddqn.ipynb Cell 28 in <cell line: 1>()
-    ----> <a href='vscode-notebook-cell:/d%3A/RL/space_invader_ddqn.ipynb#ch0000027?line=0'>1</a> scores = train(1000)
     
-
-    d:\RL\space_invader_ddqn.ipynb Cell 28 in train(n_episodes)
-         <a href='vscode-notebook-cell:/d%3A/RL/space_invader_ddqn.ipynb#ch0000027?line=10'>11</a> while True:
-         <a href='vscode-notebook-cell:/d%3A/RL/space_invader_ddqn.ipynb#ch0000027?line=11'>12</a>     action = agent.act(state, eps)
-    ---> <a href='vscode-notebook-cell:/d%3A/RL/space_invader_ddqn.ipynb#ch0000027?line=12'>13</a>     next_state, reward, done, info = env.step(action)
-         <a href='vscode-notebook-cell:/d%3A/RL/space_invader_ddqn.ipynb#ch0000027?line=13'>14</a>     score += reward
-         <a href='vscode-notebook-cell:/d%3A/RL/space_invader_ddqn.ipynb#ch0000027?line=14'>15</a>     next_state = stack_frames(state, next_state, False)
-    
-
-    File c:\Users\Amin\AppData\Local\Programs\Python\Python310\lib\site-packages\gym\wrappers\time_limit.py:60, in TimeLimit.step(self, action)
-         48 def step(self, action):
-         49     """Steps through the environment and if the number of steps elapsed exceeds ``max_episode_steps`` then truncate.
-         50 
-         51     Args:
-       (...)
-         57         "TimeLimit.truncated"=False if the environment terminated
-         58     """
-         59     observation, reward, terminated, truncated, info = step_api_compatibility(
-    ---> 60         self.env.step(action),
-         61         True,
-         62     )
-         63     self._elapsed_steps += 1
-         65     if self._elapsed_steps >= self._max_episode_steps:
-    
-
-    File c:\Users\Amin\AppData\Local\Programs\Python\Python310\lib\site-packages\gym\wrappers\order_enforcing.py:37, in OrderEnforcing.step(self, action)
-         35 if not self._has_reset:
-         36     raise ResetNeeded("Cannot call env.step() before calling env.reset()")
-    ---> 37 return self.env.step(action)
-    
-
-    File c:\Users\Amin\AppData\Local\Programs\Python\Python310\lib\site-packages\gym\wrappers\step_api_compatibility.py:52, in StepAPICompatibility.step(self, action)
-         43 def step(self, action):
-         44     """Steps through the environment, returning 5 or 4 items depending on `new_step_api`.
-         45 
-         46     Args:
-       (...)
-         50         (observation, reward, terminated, truncated, info) or (observation, reward, done, info)
-         51     """
-    ---> 52     step_returns = self.env.step(action)
-         53     if self.new_step_api:
-         54         return step_to_new_api(step_returns)
-    
-
-    File c:\Users\Amin\AppData\Local\Programs\Python\Python310\lib\site-packages\gym\wrappers\env_checker.py:39, in PassiveEnvChecker.step(self, action)
-         37     return env_step_passive_checker(self.env, action)
-         38 else:
-    ---> 39     return self.env.step(action)
-    
-
-    File c:\Users\Amin\AppData\Local\Programs\Python\Python310\lib\site-packages\gym\envs\atari\environment.py:238, in AtariEnv.step(self, action_ind)
-        236 reward = 0.0
-        237 for _ in range(frameskip):
-    --> 238     reward += self.ale.act(action)
-        240 return self._get_obs(), reward, terminal, self._get_info()
-    
-
-    KeyboardInterrupt: 
 
 
 585 => 288
@@ -464,11 +381,3 @@ while True:
 env.close()
 show_video()
 ```
-
-
-    Canceled future for execute_request message before replies were done
-
-
-
-    The Kernel crashed while executing code in the the current cell or a previous cell. Please review the code in the cell(s) to identify a possible cause of the failure. Click <a href='https://aka.ms/vscodeJupyterKernelCrash'>here</a> for more info. View Jupyter <a href='command:jupyter.viewOutput'>log</a> for further details.
-

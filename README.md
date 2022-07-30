@@ -157,14 +157,15 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
   ### ``` 2- Frozen Lake ```
   <img src="Frozen-Lake/Q-Learning/frozen_lake.gif" height=400 width=70% />
   
-  > **Note** 
-  <a href="Frozen-Lake/Q-Learning/" targert="_blacnk"><img src="https://img.shields.io/badge/See The Project with DQN-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+  > **Note**
+  > Frozen lake involves crossing a frozen lake from Start(S) to Goal(G) without falling into any Holes(H) by walking over the Frozen(F) lake. The agent may not always move in the intended direction due to the slippery nature of the frozen lake.
+  
+  <a href="Frozen-Lake/Q-Learning/" targert="_blacnk"><img src="https://img.shields.io/badge/See The Project with Q Learning-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
   
   ### ``` 3- Ping Pong ```
   <img src="ping-pong.gif" height=400 width=70% />
   
   > **Note** 
-  > 
   
   <a href="" targert="_blacnk"><img src="https://img.shields.io/badge/See The Project-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 

@@ -1803,3 +1803,4 @@ print(f"\nTotal Episode: {n}\nMax Step per Episode: {max_steps}\nWin: {win}\nLos
     Win: 17
     Loss: 83
     
+  <img src="frozen_lake.gif" height=400 width=70% />

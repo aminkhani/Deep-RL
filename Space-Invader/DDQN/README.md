@@ -381,3 +381,4 @@ while True:
 env.close()
 show_video()
 ```
+  <img src="frozen-lake.gif" height=400 width=70% />

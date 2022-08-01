@@ -177,7 +177,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
   <a href="Frozen-Lake/Q-Learning/" targert="_blacnk"><img src="https://img.shields.io/badge/See The Project with Q Learning-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
   
   ### ``` 3- Ping Pong ```
-  <img src="ping-pong.gif" height=400 width=70% />
+  <img src="Ping-Pong/ping-pong.gif" height=400 width=70% />
   
   > **Note** 
   

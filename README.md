@@ -63,16 +63,16 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 <div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 
 # :page_facing_up: Articles
-* :white_check_mark::100:Mnih, Volodymyr, et al. ``` "Human-level control through deep reinforcement learning." Nature518.7540 (2015): 529 ```
+* :white_check_mark::100:Mnih, Volodymyr, et al. ``` "Human-level control through deep reinforcement learning." ```
 > <a href="http://www.davidqiu.com:8888/research/nature14236.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 * :white_check_mark::100:Bernhard Schölkopf. ``` "Learning to see and act." Nature518, pages486–487 (2015) ```
 > <a href="https://www.cs.swarthmore.edu/~meeden/cs63/s15/nature15a.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
-* :white_check_mark::100:David Silver, et al. ``` "Mastering the game of Go with deep neural networks and tree search." Nature529, pages484–489 (2016) ```
+* :white_check_mark::100:David Silver, et al. ``` "Mastering the game of Go with deep neural networks and tree search." ```
 > <a href="https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
-* :white_check_mark::100:Xing Wua, et al. ``` "Adaptive stock trading strategies with deep reinforcement learning methods." Information Sciences ```
+* :white_check_mark::100:Xing Wua, et al. ``` "Adaptive stock trading strategies with deep reinforcement learning methods." ```
 > <a href="https://doi.org/10.1016/j.ins.2020.05.066" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 * :white_check_mark::100:Gerald Tesauro. ``` "Temporal Difference Learning and TD-Gammon." ```

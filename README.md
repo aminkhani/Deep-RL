@@ -99,7 +99,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 * :white_check_mark::100:Brockman, Greg, et al. ``` "Openai gym." arXiv preprint arXiv:1606.01540 (2016). ```
 > <a href="https://arxiv.org/pdf/1606.01540.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
-* :white_check_mark::100:Schulman, John, et al. ``` "Proximal policy optimization algorithms." arXiv preprint arXiv:1707.06347 (2017). ```
+* :white_check_mark::100:Schulman, John, et al. ``` "Proximal policy optimization algorithms." ```
 > <a href="https://arxiv.org/pdf/1707.06347.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 <div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>

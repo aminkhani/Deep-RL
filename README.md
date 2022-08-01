@@ -93,6 +93,9 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 * :white_check_mark::100:Watkins, C.J.C.H., Dayan, P. ``` "Q-learning". Mach Learn 8, 279–292 (1992) ```
 > <a href="https://link.springer.com/content/pdf/10.1007/BF00992698.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
+* :white_check_mark::100:Riedmiller, Martin. ``` "Neural fitted Q iteration–first experiences with a data efficient neural reinforcement learning method." ```
+> <a href="https://link.springer.com/content/pdf/10.1007/11564096_32.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+
 <div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 
 # :mortar_board: Courses

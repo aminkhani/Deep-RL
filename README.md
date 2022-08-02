@@ -1,7 +1,7 @@
 
 [<a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">👍</a>]
 
-<sub><b><i>Like counter: 0</i></b></sub>
+![GitHub issues by-label](https://img.shields.io/github/issues-raw/aminkhani/Reinforcement-Learning/Like)
 
 
 <div align="center">

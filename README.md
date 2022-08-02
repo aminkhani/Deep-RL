@@ -17,7 +17,7 @@
 </div>
 
 [<a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">👍</a>]
-<sub><b><i>Like counter: 0/i></b></sub>
+<sub><b><i>Like counter: 0</i></b></sub>
 
 <br />
 <div align="center">

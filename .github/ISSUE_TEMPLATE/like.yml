@@ -13,6 +13,6 @@ body:
     attributes:
       label: useless
       description: Add something useless if you want, you are free
-      placeholder: 🐛
+      placeholder: 
     validations:
       required: false

@@ -2,7 +2,7 @@
 [<a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">👍</a>]
 
 ![GitHub issues by-label](https://img.shields.io/github/issues-raw/aminkhani/Reinforcement-Learning/Like)
-
+![GitHub closed issues by-label](https://img.shields.io/github/issues-closed/aminkhani/Reinforcement-Learning/Like)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aminkhani-ai/" targert="_blacnk">

@@ -1,0 +1,92 @@
+$prime: #ff6e48
+$ciBlue: #00FFF1
+$ciRed: #ff00aa
+$ciGreen: #46fcb4
+$second: #0c1016
+
+body,
+html
+    align-items: center
+    background-color: $second
+    display: flex
+    font-family: 'Roboto'
+    font-size: 10px
+    height: 100%
+    justify-content: center
+    margin: 0
+    padding: 0
+    width: 100%
+
+*
+    box-sizing: border-box
+
+button
+    border: none
+    border-radius: 2rem
+    display: flex
+    justify-content: flex-start
+    align-items: center
+    flex-direction: row
+    cursor: pointer
+    padding: 0 2rem 0 2rem
+    transition: 150ms all
+    background-color: lighten($second, 10%)
+
+    &.dislike
+        .icon
+            svg.prime
+                animation: dislike 550ms forwards ease-in-out
+
+    &.active
+        background-color: $ciBlue
+        .counter
+            color: $second
+        .icon
+            svg
+                color: $second
+            svg.prime
+                animation: like 550ms forwards ease-in-out
+
+    .counter
+        font-size: 3rem
+        font-weight: 700
+        color: white
+        padding: 2rem 0 2rem 2rem
+        transition: 150ms all
+
+    .icon
+        padding: 1rem
+        transition: 150ms all
+        position: relative
+        width: 3rem
+        height: 3rem
+
+        svg
+            color: white
+            position: absolute
+            top: 0
+            left: 0
+            width: 3rem
+            height: 3rem
+
+            &.normal
+                z-index: 1
+                opacity: 0.5
+            &.prime
+                z-index: 2
+
+@keyframes dislike
+    0%
+        color: $second
+        transform: translate(0, 0%)
+    100%
+        color: $ciBlue
+        transform: translate(0, 300%) scale(0)
+
+@keyframes like
+    0%
+        color: white
+        transform: translate(0, 0%)
+    100%
+        color: $ciBlue
+        transform: translate(0, -300%) scale(0)

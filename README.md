@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/aminkhani-ai/" targert="_blacnk">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<sub><b><i>Like counter: 2</i></b></sub>
   <a href="mailto:aminkhani2010@gmail.com" targert="_blacnk">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>

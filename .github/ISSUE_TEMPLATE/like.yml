@@ -1,7 +1,7 @@
 name: Like
 description: Add a like
 title: "Add new like!"
-labels: ["like"]
+labels: ["Like"]
 body:
   - type: markdown
     attributes:

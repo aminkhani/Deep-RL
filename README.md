@@ -15,10 +15,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge" />
   </a>
 </div>
-
-[<a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">👍</a>]
-<sub><b><i>Like counter: 0</i></b></sub>
-
 <br />
 <div align="center">
   <h1 align="center">Reinforcement learning</h1>

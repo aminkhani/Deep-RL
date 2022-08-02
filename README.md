@@ -1,5 +1,5 @@
 
-[<a href="https://github.com/aminkhani/Reinforcement-Learning/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">👍</a>]
+[<a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">👍</a>]
 
 <sub><b><i>Like counter: 7</i></b></sub>
 

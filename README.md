@@ -1,11 +1,9 @@
-<center>
-<img src="rll.gif">
-</center>
+<!-- <a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">👍</a>
 
-<a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">👍</a>
+![GitHub closed issues by-label](https://img.shields.io/github/issues-closed-raw/aminkhani/Reinforcement-Learning/Like?color=s&label=Like&logo=Github&style=for-the-badge) -->
 
-![GitHub closed issues by-label](https://img.shields.io/github/issues-closed-raw/aminkhani/Reinforcement-Learning/Like?color=s&label=Like&logo=Github&style=for-the-badge)<div align="center">
-
+<div align="center">
+  <img src="rll.gif"><br><br>
   <a href="https://www.linkedin.com/in/aminkhani-ai/" targert="_blacnk">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="mailto:aminkhani2010@gmail.com" targert="_blacnk">

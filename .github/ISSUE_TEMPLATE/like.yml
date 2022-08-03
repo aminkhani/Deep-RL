@@ -1,17 +1,17 @@
 name: 👍Like
-description: [LIKE]:
-title: "Add new like!"
+description: Add a Like
+title: "[LIKE]:"
 labels: ["Like"]
 body:
   - type: markdown
     attributes:
       value: |
         Click on `Submit new issue` to validate your like
-        It is a bit tedious for user but see this as a "like" CSRF protection
+        Thanks for taking the time
   - type: textarea
-    id: useless
+    id: like-description
     attributes:
-      label: useless
+      label: You can say why like
       description: Add something useless if you want, you are free
       placeholder: 
     validations:

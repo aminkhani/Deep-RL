@@ -1,7 +1,7 @@
-name: Unlike
+name: 👎Unlike
 description: Withdraw my like
 title: "I want to Unlike!"
-labels: ["unlike-mutable"]
+labels: ["unlike"]
 body:
   - type: markdown
     attributes:

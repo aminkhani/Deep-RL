@@ -429,9 +429,8 @@ scores = train(1000)
 
 
     
-![png](img/output_29_20.png)
-    
-
+![png](./img/output_29_20.png)
+  
 
 **Unfortunately**, I forgot to calculate the training time but the colab notebook calculate the executing time
 
@@ -467,4 +466,4 @@ show_video() # Comment this when use PC
              </video>
 
 
-<img src="spaceinvader.gif" height=400 width=70% />
+<img src="./spaceinvader.gif" height=400 width=70% />

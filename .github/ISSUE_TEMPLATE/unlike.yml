@@ -1,5 +1,5 @@
 name: 👎Unlike
-description: Withdraw my like
+description: Add a unlike
 title: "[UNLIKE]: "
 labels: ["unlike"]
 body:
@@ -11,7 +11,7 @@ body:
   - type: textarea
     id: unlike
     attributes:
-      label: unlike-description
+      label: You can say why unlike
       description: Add something useless if you want, you are free
       placeholder: 
     validations:

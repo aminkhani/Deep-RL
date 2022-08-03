@@ -1,18 +1,18 @@
 name: 👎Unlike
 description: Withdraw my like
-title: "I want to Unlike!"
+title: "[UNLIKE]: "
 labels: ["unlike"]
 body:
   - type: markdown
     attributes:
       value: |
         Click on `Submit new issue` to unlike a previous like
-        It is a bit tedious for user but see this as a "unlike" CSRF protection
+        Thanks for taking the time
   - type: textarea
-    id: useless
+    id: unlike
     attributes:
-      label: useless
+      label: unlike-description
       description: Add something useless if you want, you are free
-      placeholder: 🐛
+      placeholder: 
     validations:
       required: false

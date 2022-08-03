@@ -35,18 +35,23 @@
     <a href="https://github.com/aminkhani/Reinforcement-Learning#computer-blogs">Blogs</a>
     .
     <a href="https://github.com/aminkhani/Reinforcement-Learning#gear-projects">Projects</a>
+    <p align="center"><br>
+   <a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">🐛Report Bug</a>
+   .
+   <a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=question&template=question.yml&title=%5BQUESTION%5D%3A+">❓Ask Question</a>
+   .
+  <a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=like&template=like.yml&title=%5BLIKE%5D%3A+">👍Like the repo</a>
+  .
+  <a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=unlike&template=unlike.yml&title=%5BUNLIKE%5D%3A+">👎Dislike the repo</a>
   </p>
+  </p>
+</div><br /><br />
+
 </div><br /><br />
 
 > **Note**
 > 
 > :white_check_mark::100: it means, I have seen and tried them, I definitely recommend them to you
-
-> **Warning**
-> <a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">🐛Report Bug</a>
-> <a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=question&template=question.yml&title=%5BQUESTION%5D%3A+">❓Ask Question</a>
-> <a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=like&template=like.yml&title=%5BLIKE%5D%3A+">👍Like the repo</a>
-> <a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=unlike&template=unlike.yml&title=%5BUNLIKE%5D%3A+">👎Dislike the repo</a>
 
 ## What is Reinforcement Learning(RL)?
 Reinforcement learning (RL) is a field of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.

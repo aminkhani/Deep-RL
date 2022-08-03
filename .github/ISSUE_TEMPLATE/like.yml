@@ -1,7 +1,7 @@
 name: 👍Like
 description: Add a Like
-title: "[LIKE]:"
-labels: ["Like"]
+title: "[LIKE]: "
+labels: ["like"]
 body:
   - type: markdown
     attributes:

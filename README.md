@@ -57,9 +57,11 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 
 <br />
 
-# :world_map:Segguestion Reaodmap
+# :world_map:Roadmap
+> **Warning**
+> This is only a segguestion roadmap
 <div align="center">
-<img src=".github/Roeadmap.png">
+<img src=".github/roadmap.png">
 </div>
 
 

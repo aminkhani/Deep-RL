@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Click on `Submit new issue` to validate your like
+        Click on `Submit new issue` to validate your question
         Thanks for taking the time
   - type: textarea
     id: Ask-description

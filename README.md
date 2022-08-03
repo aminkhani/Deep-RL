@@ -57,6 +57,12 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 
 <br />
 
+# :world_map:Segguestion Reaodmap
+<div align="center">
+<img src=".github/Roeadmap.png">
+</div>
+
+
 # :books: Books
 
 ``` 1. The main and reference of most books and articles ```

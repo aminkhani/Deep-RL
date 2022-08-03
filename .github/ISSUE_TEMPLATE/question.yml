@@ -1,12 +1,13 @@
-name: ❓Ask your question
-description: File a bug report here
-title: "[BUG]: "
+name: ❓Question
+description: your question here
+title: "[QUESTION]: "
 labels: ["question"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time!!!
+        Click on `Submit new issue` to validate your like
+        Thanks for taking the time
   - type: textarea
     id: Ask-description
     attributes:

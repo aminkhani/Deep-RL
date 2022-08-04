@@ -86,6 +86,26 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 > ### Sort by Time
 
 ```bash
+1992 May: Watkins, C.J.C.H., Dayan, P. "Q-learning". Mach Learn 8, 279–292 (1992) 
+```
+> <a href="https://link.springer.com/content/pdf/10.1007/BF00992698.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+
+```bash
+1995 Mar: Gerald Tesauro. "Temporal Difference Learning and TD-Gammon."
+```
+> <a href="https://www.bkgm.com/articles/tesauro/tdl.html" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+
+```bash
+2005 Oct: Riedmiller, Martin. "Neural fitted Q iteration–first experiences with a data efficient neural reinforcement learning method." 
+```
+> <a href="https://link.springer.com/content/pdf/10.1007/11564096_32.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+
+```bash 
+2013 Dec: Volodymyr Mnih, et al. "Playing Atari with Deep Reinforcement Learning." 
+```
+> <a href="https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+
+```bash
 2015 Feb: Mnih, Volodymyr, et al. "Human-level control through deep reinforcement learning."
 ```
 > <a href="http://www.davidqiu.com:8888/research/nature14236.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
@@ -96,24 +116,9 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 > <a href="https://www.cs.swarthmore.edu/~meeden/cs63/s15/nature15a.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash
-2016 Jan: David Silver, et al. "Mastering the game of Go with deep neural networks and tree search."
+2015 Sep: Hado van Hasselt, et al. "Deep Reinforcement Learning with Double Q-learning." 
 ```
-> <a href="https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
-
-```bash
-2020 Oct: Xing Wua, et al. "Adaptive stock trading strategies with deep reinforcement learning methods."
-```
-> <a href="https://doi.org/10.1016/j.ins.2020.05.066" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
-
-```bash
-1995 Mar: Gerald Tesauro. "Temporal Difference Learning and TD-Gammon."
-```
-> <a href="https://www.bkgm.com/articles/tesauro/tdl.html" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
-
-```bash
-2016 Feb: Volodymyr Mnih, et al. "Asynchronous Methods for Deep Reinforcement Learning." 
-```
-> <a href="https://arxiv.org/pdf/1602.01783.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+> <a href="https://arxiv.org/pdf/1509.06461.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash
 2015 Nov: Ziyu Wang, et al. "Dueling Network Architectures for Deep Reinforcement Learning." 
@@ -121,24 +126,9 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 > <a href="https://arxiv.org/pdf/1511.06581.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash
-2015 Sep: Hado van Hasselt, et al. "Deep Reinforcement Learning with Double Q-learning." 
+2016 Jan: David Silver, et al. "Mastering the game of Go with deep neural networks and tree search."
 ```
-> <a href="https://arxiv.org/pdf/1509.06461.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
-
-```bash 
-2013 Dec: Volodymyr Mnih, et al. "Playing Atari with Deep Reinforcement Learning." 
-```
-> <a href="https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
-
-```bash
-1992 May: Watkins, C.J.C.H., Dayan, P. "Q-learning". Mach Learn 8, 279–292 (1992) 
-```
-> <a href="https://link.springer.com/content/pdf/10.1007/BF00992698.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
-
-```bash
-2005 Oct: Riedmiller, Martin. "Neural fitted Q iteration–first experiences with a data efficient neural reinforcement learning method." 
-```
-> <a href="https://link.springer.com/content/pdf/10.1007/11564096_32.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+> <a href="https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash
 2016 Jun: Brockman, Greg, et al. "Openai gym." arXiv preprint arXiv:1606.01540. 
@@ -146,9 +136,20 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 > <a href="https://arxiv.org/pdf/1606.01540.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash
+2016 Feb: Volodymyr Mnih, et al. "Asynchronous Methods for Deep Reinforcement Learning." 
+```
+> <a href="https://arxiv.org/pdf/1602.01783.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+
+```bash
 2017 Aug: Schulman, John, et al. "Proximal policy optimization algorithms." 
 ```
 > <a href="https://arxiv.org/pdf/1707.06347.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+
+```bash
+2020 Oct: Xing Wua, et al. "Adaptive stock trading strategies with deep reinforcement learning methods."
+```
+> <a href="https://doi.org/10.1016/j.ins.2020.05.066" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+
 
 <div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 

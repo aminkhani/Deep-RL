@@ -121,6 +121,11 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 > <a href="https://link.springer.com/content/pdf/10.1007/11564096_32.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash 
+2012 Jul: Bellemare, Marc G., et al. "The Arcade Learning Environment: An Evaluation Platform for General Agents." 
+```
+> <a href="https://arxiv.org/abs/1207.4708" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+
+```bash 
 2013 Dec: Volodymyr Mnih, et al. "Playing Atari with Deep Reinforcement Learning." 
 ```
 > <a href="https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
@@ -139,6 +144,11 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 2015 Sep: Hado van Hasselt, et al. "Deep Reinforcement Learning with Double Q-learning." 
 ```
 > <a href="https://arxiv.org/pdf/1509.06461.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+
+```bash
+2015 Sep: Lillicrap, Timothy P., et al. "Continuous control with deep reinforcement learning." 
+```
+> <a href="https://arxiv.org/abs/1509.02971" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash
 2015 Nov: Ziyu Wang, et al. "Dueling Network Architectures for Deep Reinforcement Learning." 

@@ -126,6 +126,11 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 > <a href="https://arxiv.org/pdf/1511.06581.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash
+2015 Nov: Schaul, Tom, et al. "Prioritized Experience Replay." 
+```
+> <a href="https://arxiv.org/abs/1511.05952" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+
+```bash
 2016 Jan: David Silver, et al. "Mastering the game of Go with deep neural networks and tree search."
 ```
 > <a href="https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
@@ -150,6 +155,10 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 ```
 > <a href="https://arxiv.org/abs/1710.02298" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
+```bash
+2018 Dec: Haarnoja, Tuomas, et al. "Soft Actor-Critic Algorithms and Applications." 
+```
+> <a href="https://arxiv.org/abs/1812.05905" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash
 2020 Oct: Xing Wua, et al. "Adaptive stock trading strategies with deep reinforcement learning methods."

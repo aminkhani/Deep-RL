@@ -146,6 +146,12 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 > <a href="https://arxiv.org/pdf/1707.06347.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash
+2017 Oct: Hessel, Matteo, et al. "Rainbow: Combining Improvements in Deep Reinforcement Learning." 
+```
+> <a href="https://arxiv.org/abs/1710.02298" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+
+
+```bash
 2020 Oct: Xing Wua, et al. "Adaptive stock trading strategies with deep reinforcement learning methods."
 ```
 > <a href="https://doi.org/10.1016/j.ins.2020.05.066" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>

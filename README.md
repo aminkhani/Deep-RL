@@ -86,9 +86,29 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 > ### Sort by Time
 
 ```bash
+1958 Oct: Rosenblatt, F. "The perceptron: A probabilistic model for information storage and organization in the brain.."
+```
+> <a href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.335.3398&rep=rep1&type=pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+
+```bash
+1983 Oct: Andrew G. Barto, et al. "Neuronlike adaptive elements that can solve difficult learning control problems."
+```
+> <a href="https://ieeexplore.ieee.org/abstract/document/6313077" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+
+```bash
+1988 Feb: Sutton, R.S. "Learning to Predict by the Methods of Temporal Differences."
+```
+> <a href="https://link.springer.com/content/pdf/10.1007/BF00115009.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+
+```bash
 1992 May: Watkins, C.J.C.H., Dayan, P. "Q-learning". Mach Learn 8, 279–292 (1992) 
 ```
 > <a href="https://link.springer.com/content/pdf/10.1007/BF00992698.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+
+```bash
+1994 Nov: G. A. Rummery, M. Niranjan. "On-Line Q-Learning Using Connectionist Systems"
+```
+> <a href="https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.17.2539" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash
 1995 Mar: Gerald Tesauro. "Temporal Difference Learning and TD-Gammon."

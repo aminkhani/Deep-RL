@@ -70,11 +70,15 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 # :books: Books
 
 ``` 1. The main and reference of most books and articles ```
-* :white_check_mark::100:Reinforcement Learning: An Introduction - Second Edition - Richard S. Sutton and Andrew G. Barto
+```bash
+"Reinforcement Learning: An Introduction - Second Edition - Richard S. Sutton and Andrew G. Barto"
+```
 > <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=plex&logoColor=white" alt="Download Badge"/></a>
 
 ``` 2. Deep Reinforcement Learning ```
-* Deep Reinforcement Learning with Python - Second Edition - Sudharsan Ravichandiran
+```bash
+"Deep Reinforcement Learning with Python - Second Edition - Sudharsan Ravichandiran"
+```
 > <a href="https://www.packtpub.com/product/deep-reinforcement-learning-with-python-second-edition/9781839210686" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=plex&logoColor=white" alt="Download Badge"/></a>
 
 * Grokking Deep Reinforcement Learning - Miguel Morales

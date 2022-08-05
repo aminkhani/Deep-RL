@@ -45,7 +45,7 @@
   </p>
 </div><br /><br />
 
-</div><br />
+</div>
 
 > **Note**
 > 

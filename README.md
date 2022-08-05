@@ -71,7 +71,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 
 ``` 1. The main and reference of most books and articles ```
 ```bash
-"Reinforcement Learning: An Introduction - Second Edition - Richard S. Sutton and Andrew G. Barto"
+*"Reinforcement Learning: An Introduction - Second Edition - Richard S. Sutton and Andrew G. Barto"
 ```
 > <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=plex&logoColor=white" alt="Download Badge"/></a>
 

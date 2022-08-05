@@ -195,6 +195,11 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 ```
 > <a href="https://doi.org/10.1016/j.ins.2020.05.066" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
+```bash
+2022 March: Wen, Y., Su, Q., Shen, M. et al. "Improving the exploration efficiency of DQNs via the confidence bound methods."
+```
+> <a href="https://link.springer.com/article/10.1007/s10489-022-03363-0#citeas" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+
 
 <div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 

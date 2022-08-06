@@ -214,7 +214,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 ``` 1. Reinforcement Learning Specialization ``` <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">
 > Master the Concepts of Reinforcement Learning. Implement a complete RL solution and understand how to apply AI tools to solve real-world problems.
 * Offered By UNIVERSITY OF ALBERTA ALBERTA MACHINE INTELLIGENCE INSTITUTE
-* There are 4 Courses in this Specialization
+* There are 4 Courses in this Specialization<br>
    <a href="https://www.coursera.org/learn/fundamentals-of-reinforcement-learning?specialization=reinforcement-learning" taget="_blank">:link:Fundamentals of Reinforcement Learning</a><br>
    <a href="https://www.coursera.org/learn/sample-based-learning-methods?specialization=reinforcement-learning" taget="_blank">:link:Sample-based Learning Methods</a><br>
    <a href="https://www.coursera.org/learn/prediction-control-function-approximation?specialization=reinforcement-learning" taget="_blank">:link:Prediction and Control with Function Approximation</a><br>

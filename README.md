@@ -215,10 +215,10 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 > Master the Concepts of Reinforcement Learning. Implement a complete RL solution and understand how to apply AI tools to solve real-world problems.
 * Offered By UNIVERSITY OF ALBERTA ALBERTA MACHINE INTELLIGENCE INSTITUTE
 * There are 4 Courses in this Specialization
-  - <a href="https://www.coursera.org/learn/fundamentals-of-reinforcement-learning?specialization=reinforcement-learning" taget="_blank">:white_check_mark::100:Fundamentals of Reinforcement Learning</a>
-  - <a href="https://www.coursera.org/learn/sample-based-learning-methods?specialization=reinforcement-learning" taget="_blank">:white_check_mark::100:Sample-based Learning Methods</a>
-  - <a href="https://www.coursera.org/learn/prediction-control-function-approximation?specialization=reinforcement-learning" taget="_blank">:white_check_mark::100:Prediction and Control with Function Approximation</a>
-  - <a href="https://www.coursera.org/learn/complete-reinforcement-learning-system?specialization=reinforcement-learning" taget="_blank">:white_check_mark::100:A Complete Reinforcement Learning System (Capstone)</a>
+  - <a href="https://www.coursera.org/learn/fundamentals-of-reinforcement-learning?specialization=reinforcement-learning" taget="_blank">Fundamentals of Reinforcement Learning</a>
+  - <a href="https://www.coursera.org/learn/sample-based-learning-methods?specialization=reinforcement-learning" taget="_blank">Sample-based Learning Methods</a>
+  - <a href="https://www.coursera.org/learn/prediction-control-function-approximation?specialization=reinforcement-learning" taget="_blank">Prediction and Control with Function Approximation</a>
+  - <a href="https://www.coursera.org/learn/complete-reinforcement-learning-system?specialization=reinforcement-learning" taget="_blank">A Complete Reinforcement Learning System (Capstone)</a>
 > <a href="https://www.coursera.org/specializations/reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Read More-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read More Badge"/></a>
 
 ``` 2. Become a Deep Reinforcement Learning Expert ``` <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6">

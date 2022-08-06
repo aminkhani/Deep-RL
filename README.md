@@ -51,7 +51,7 @@
 > 
 > :white_check_mark::100: it means, I have seen and tried them, I definitely recommend them to you
 
-## What is Reinforcement Learning(RL)?
+## ❗️What is Reinforcement Learning(RL)❓️
 Reinforcement learning (RL) is a field of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.
 
 > You can also read below blog to understand the key concepts in Reinforcement Learning

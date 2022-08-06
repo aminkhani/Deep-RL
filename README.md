@@ -240,27 +240,27 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 
 # :computer: Blogs
 
-* ### Deep Reinforcement Learning
+  ### 📍Deep Reinforcement Learning📍
   <a href="https://www.freecodecamp.org/news/an-introduction-to-deep-q-learning-lets-play-doom-54d02d8017d8">:link: An introduction to Deep Q-Learning: let’s play Doom</a><br>
   <a href="https://karpathy.github.io/2016/05/31/rl/">:link: Deep Reinforcement Learning: Pong from Pixels</a> :white_check_mark::100:```Andrej Karpathy blog ```<br>
 
-* ### Value-Based Methods
+  ### 📍Value-Based Methods📍
   <a href="https://medium.com/intro-to-artificial-intelligence/q-learning-a-value-based-reinforcement-learning-algorithm-272706d835cf">:link: Q-learning: a value-based reinforcement learning algorithm</a><br>
   <a href="https://medium.com/intro-to-artificial-intelligence/deep-q-network-dqn-applying-neural-network-as-a-functional-approximation-in-q-learning-6ffe3b0a9062">:link: Deep Q Network(DQN)- Applying Neural Network as a functional approximation in Q-learning</a><br>
   <a href="https://www.freecodecamp.org/news/diving-deeper-into-reinforcement-learning-with-q-learning-c18d0db58efe">:link: Diving deeper into Reinforcement Learning with Q-Learning</a><br>
   
-* ### Policy-Based Methods
+  ### 📍Policy-Based Methods📍
   <a href="https://medium.com/intro-to-artificial-intelligence/reinforce-a-policy-gradient-based-reinforcement-learning-algorithm-84bde440c816">:link: REINFORCE — a policy-gradient based reinforcement Learning algorithm</a><br>
   <a href="https://towardsdatascience.com/policy-based-reinforcement-learning-the-easy-way-8de9a3356083">:link: Policy Based Reinforcement Learning, the Easy Way</a><br>
   <a href="https://towardsdatascience.com/revisiting-policy-in-reinforcement-learning-for-developers-43cd2b713182">:link: Reinforcement Learning Policy for Developers<a><br>
   <a href="https://www.freecodecamp.org/news/an-introduction-to-policy-gradients-with-cartpole-and-doom-495b5ef2207f/">:link: An introduction to Policy Gradients with Cartpole and Doom</a><br>
 
-* ### Value & Policy Based Methods
+  ### 📍Value & Policy Based Methods📍
   <a href="https://towardsdatascience.com/introduction-to-actor-critic-7642bdb2b3d2">:link: Introduction to Actor Critic in Reinforcement Learning</a><br>
   <a href="https://medium.com/intro-to-artificial-intelligence/the-actor-critic-reinforcement-learning-algorithm-c8095a655c14">:link: The Actor-Critic Reinforcement Learning algorithm</a><br>
 
 
-* ### Relevant & Attractive Content
+  ### 📍Relevant & Attractive Content📍
   <a href="https://www.technologyreview.com/2016/03/18/161519/this-factory-robot-learns-a-new-job-overnight/" target="_blanck">:link: This   Factory Robot Learns a New Job Overnight</a><br>
   <a href="https://jonathan-hui.medium.com/rl-basics-algorithms-and-terms-ae98314851d7">:link: RL — Basics algorithms and terms</a><br>
   <a href="https://towardsdatascience.com/the-complete-reinforcement-learning-dictionary-e16230b7d24e">:link: The Complete Reinforcement Learning Dictionary</a><br>

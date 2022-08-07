@@ -300,5 +300,12 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
   > **Note** 
   
   <a href="" targert="_blacnk"><img src="https://img.shields.io/badge/See The Project-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
+  
+  ### ``` 4- Mountain Car ```
+  <img src=".github/mountain-car-v0.gif" height=400 width=70% />
+  
+  > **Note** 
+  
+  <a href="" targert="_blacnk"><img src="https://img.shields.io/badge/See The Project-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 <div  align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>

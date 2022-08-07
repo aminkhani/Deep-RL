@@ -268,7 +268,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
   <a href="https://medium.com/intro-to-artificial-intelligence/the-actor-critic-reinforcement-learning-algorithm-c8095a655c14">:link: The Actor-Critic Reinforcement Learning algorithm</a><br>
   
  ### 📍OpeniAi Gym📍
- <a href="https://blog.paperspace.com/getting-started-with-openai-gym/">:link: Getting Started With OpenAI Gym: The Basic Building Blocks</a><br>
+   <a href="https://blog.paperspace.com/getting-started-with-openai-gym/">:link: Getting Started With OpenAI Gym: The Basic Building Blocks</a><br>
 
   ### 📍Relevant & Attractive Content📍
   <a href="https://www.technologyreview.com/2016/03/18/161519/this-factory-robot-learns-a-new-job-overnight/" target="_blanck">:link: This   Factory Robot Learns a New Job Overnight</a><br>

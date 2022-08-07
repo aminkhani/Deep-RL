@@ -69,13 +69,11 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 
 # :books: Books
 
-``` 1. The main and reference of most books and articles ```
 ```bash
 *"Reinforcement Learning: An Introduction - Second Edition - Richard S. Sutton and Andrew G. Barto"
 ```
 > <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=plex&logoColor=white" alt="Download Badge"/></a>
 
-``` 2. Deep Reinforcement Learning ```
 ```bash
 "Deep Reinforcement Learning with Python - Second Edition - Sudharsan Ravichandiran"
 ```
@@ -85,6 +83,11 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 "Grokking Deep Reinforcement Learning - Miguel Morales"
 ```
 > <a href="https://www.manning.com/books/grokking-deep-reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=plex&logoColor=white" alt="Download Badge"/></a>
+
+```bash
+"PyTorch 1.x Reinforcement Learning Cookbook - Yuxi (Hayden) Liu"
+```
+> <a href="https://www.amazon.com/PyTorch-Reinforcement-Learning-Cookbook-self-learning/dp/1838551964" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=plex&logoColor=white" alt="Download Badge"/></a>
 
 <div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 

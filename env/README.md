@@ -652,7 +652,7 @@ plt.savefig("grid.png")
 
 
     
-![png](output_6_0.png)
+![png](grid1.png)
     
 
 

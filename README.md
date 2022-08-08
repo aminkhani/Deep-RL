@@ -315,7 +315,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
   
   <a href="" targert="_blacnk"><img src="https://img.shields.io/badge/See The Project-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
   
-   ### ``` 4- Gridworld Enviromnet ```
+   ### ``` 6- Gridworld Enviromnet ```
   <img src="env/grid1.png" height=400 width=70% />
   
   > **Note** 

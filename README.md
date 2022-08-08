@@ -110,7 +110,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 > <a href="https://ieeexplore.ieee.org/abstract/document/6313077" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash
-1988 Feb: Sutton, R.S. "Learning to Predict by the Methods of Temporal Differences."
+1988 Feb (TD): Sutton, R.S. "Learning to Predict by the Methods of Temporal Differences."
 ```
 > <a href="https://link.springer.com/content/pdf/10.1007/BF00115009.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
@@ -135,17 +135,17 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 > <a href="https://link.springer.com/content/pdf/10.1007/11564096_32.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash 
-2012 Jul: Bellemare, Marc G., et al. "The Arcade Learning Environment: An Evaluation Platform for General Agents." 
+2012 Jul (ALE): Bellemare, Marc G., et al. "The Arcade Learning Environment: An Evaluation Platform for General Agents." 
 ```
 > <a href="https://arxiv.org/abs/1207.4708" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash 
-2013 Dec: Volodymyr Mnih, et al. "Playing Atari with Deep Reinforcement Learning." 
+2013 Dec (DQN): Volodymyr Mnih, et al. "Playing Atari with Deep Reinforcement Learning." 
 ```
 > <a href="https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash
-2015 Feb: Mnih, Volodymyr, et al. "Human-level control through deep reinforcement learning."
+2015 Feb (DQN): Mnih, Volodymyr, et al. "Human-level control through deep reinforcement learning."
 ```
 > <a href="http://www.davidqiu.com:8888/research/nature14236.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
@@ -155,12 +155,12 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 > <a href="https://www.cs.swarthmore.edu/~meeden/cs63/s15/nature15a.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash
-2015 Sep: Hado van Hasselt, et al. "Deep Reinforcement Learning with Double Q-learning." 
+2015 Sep (DDQN): Hado van Hasselt, et al. "Deep Reinforcement Learning with Double Q-learning." 
 ```
 > <a href="https://arxiv.org/pdf/1509.06461.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash
-2015 Sep: Lillicrap, Timothy P., et al. "Continuous control with deep reinforcement learning." 
+2015 Sep (DDPG): Lillicrap, Timothy P., et al. "Continuous control with deep reinforcement learning." 
 ```
 > <a href="https://arxiv.org/abs/1509.02971" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
@@ -170,7 +170,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 > <a href="https://arxiv.org/pdf/1511.06581.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash
-2015 Nov: Schaul, Tom, et al. "Prioritized Experience Replay." 
+2015 Nov (PER): Schaul, Tom, et al. "Prioritized Experience Replay." 
 ```
 > <a href="https://arxiv.org/abs/1511.05952" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
@@ -185,12 +185,12 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 > <a href="https://arxiv.org/pdf/1606.01540.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash
-2016 Feb: Volodymyr Mnih, et al. "Asynchronous Methods for Deep Reinforcement Learning." 
+2016 Feb (A3C): Volodymyr Mnih, et al. "Asynchronous Methods for Deep Reinforcement Learning." 
 ```
 > <a href="https://arxiv.org/pdf/1602.01783.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash
-2017 Aug: Schulman, John, et al. "Proximal policy optimization algorithms." 
+2017 Aug (PPO): Schulman, John, et al. "Proximal policy optimization algorithms." 
 ```
 > <a href="https://arxiv.org/pdf/1707.06347.pdf" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
@@ -200,7 +200,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 > <a href="https://arxiv.org/abs/1710.02298" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 ```bash
-2018 Dec: Haarnoja, Tuomas, et al. "Soft Actor-Critic Algorithms and Applications." 
+2018 Dec (SAC): Haarnoja, Tuomas, et al. "Soft Actor-Critic Algorithms and Applications." 
 ```
 > <a href="https://arxiv.org/abs/1812.05905" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 

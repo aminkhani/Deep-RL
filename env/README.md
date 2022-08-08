@@ -651,12 +651,5 @@ plt.savefig("grid.png")
 ```
 
 
-    
 ![png](grid1.png)
-    
-
-
-
-```python
-
-```
+ 

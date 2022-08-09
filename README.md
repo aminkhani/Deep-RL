@@ -94,6 +94,11 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 ```
 > <a href="https://www.amazon.com/Deep-Reinforcement-Learning-Hands-optimization/dp/1838826998/ref=d_pd_sim_sccl_3_2/139-5839488-2609603?pd_rd_w=6b9TI&content-id=amzn1.sym.2437aae5-e44a-4617-8c19-6fb4b7db7923&pf_rd_p=2437aae5-e44a-4617-8c19-6fb4b7db7923&pf_rd_r=PBQRF9M7A0W69JZ08G8X&pd_rd_wg=NnAMr&pd_rd_r=60b5be84-2f9f-4061-9257-183fa02a8fe1&pd_rd_i=1838826998&psc=1" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=plex&logoColor=white" alt="Download Badge"/></a>
 
+```bash
+"TensorFlow 2 Reinforcement Learning Cookbook - 2nd Edition - Praveen Palanisamy"
+```
+> <a href="https://www.packtpub.com/product/tensorflow-2-reinforcement-learning-cookbook/9781838982546" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=plex&logoColor=white" alt="Download Badge"/></a>
+
 <div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 
 # :page_facing_up: Articles

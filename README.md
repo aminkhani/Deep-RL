@@ -49,11 +49,11 @@
 
 > **Note**
 > 
->### :white_check_mark::100: it means, I have seen and tried them, I definitely recommend them to you
+>#### :white_check_mark::100: it means, I have seen and tried them, I definitely recommend them to you
 >
->### *🔥If you want to get **free** access to the **books**, **course**s and **articles**, get in touch with me with social media🔥*
+>#### *🔥If you want to get **free** access to the **books**, **course**s and **articles**, get in touch with me with social media🔥*
 >
->### 📣**You can help improve this repo, by giving me a ⭐star⭐ and ❤️following me❤️**
+>#### 📣**You can help improve this repo, by giving me a ⭐star⭐ and ❤️following me❤️**
 <br>
 
 ## ❗️What is Reinforcement Learning(RL)❓️

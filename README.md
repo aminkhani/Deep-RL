@@ -255,8 +255,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 > <a href="https://www.udemy.com/course/deep-reinforcement-learning-in-python/" targert="_blacnk"><img src="https://img.shields.io/badge/Read More-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read More Badge"/></a>
 
 ``` 5. Deep Reinforcement Learning, Decision Making and control ``` 
-> Created by UC Berkeley (CS 285), Instructor: Sergey Levine.
-* The Complete Guide to Mastering Artificial Intelligence using Deep Learning and Neural Networks
+> Lectures for UC Berkeley CS 285: Deep Reinforcement Learning for Fall 2021 - Instructor: Sergey Levine
 > <a href="https://www.youtube.com/watch?v=JHrlF10v2Og" targert="_blacnk"><img src="https://img.shields.io/badge/Read More-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read More Badge"/></a>
 
 <div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>

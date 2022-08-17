@@ -104,7 +104,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 ```
 > <a href="https://www.packtpub.com/product/tensorflow-2-reinforcement-learning-cookbook/9781838982546" targert="_blacnk"><img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=plex&logoColor=white" alt="Download Badge"/></a>
 
-<div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+<div align="right"><a href="https://github.com/aminkhani/Deep-RL#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 
 # :page_facing_up: Articles
 #### 📍Sorted by Time📍
@@ -225,7 +225,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 > <a href="https://link.springer.com/article/10.1007/s10489-022-03363-0#citeas" targert="_blacnk"><img src="https://img.shields.io/badge/Read the Paper-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
 
-<div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+<div align="right"><a href="https://github.com/aminkhani/Deep-RL#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 
 # :mortar_board: Courses
 
@@ -259,7 +259,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 >
 > <a href="https://www.youtube.com/watch?v=JHrlF10v2Og" targert="_blacnk"><img src="https://img.shields.io/badge/Read More-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read More Badge"/></a>
 
-<div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+<div align="right"><a href="https://github.com/aminkhani/Deep-RL#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 
 # :computer: Blogs
 

@@ -22,17 +22,17 @@
     <h3>A reference for <strong>Books</strong>, <strong>Articles</strong>, <strong>Courses</strong> and <strong>Educational Materials</strong> in this field</h3>
     <br />
     <br />
-    <a href="https://github.com/aminkhani/Reinforcement-Learning#world_maproadmap">🗺️Roadmap</a> 
+    <a href="https://github.com/aminkhani/Deep-RL#world_maproadmap">🗺️Roadmap</a> 
     .
-    <a href="https://github.com/aminkhani/Reinforcement-Learning#books-books">📚Books</a>
+    <a href="https://github.com/aminkhani/Deep-RL#books-books">📚Books</a>
     ·
-    <a href="https://github.com/aminkhani/Reinforcement-Learning#page_facing_up-articles">📄Articles</a>
+    <a href="https://github.com/aminkhani/Deep-RL#page_facing_up-articles">📄Articles</a>
     ·
-    <a href="https://github.com/aminkhani/Reinforcement-Learning#mortar_board-courses">🎓Courses</a>
+    <a href="https://github.com/aminkhani/Deep-RL#mortar_board-courses">🎓Courses</a>
     .
-    <a href="https://github.com/aminkhani/Reinforcement-Learning#computer-blogs">💻Blogs</a>
+    <a href="https://github.com/aminkhani/Deep-RL#computer-blogs">💻Blogs</a>
     .
-    <a href="https://github.com/aminkhani/Reinforcement-Learning#gear-projects">⚙️Projects</a>
+    <a href="https://github.com/aminkhani/Deep-RL#gear-projects">⚙️Projects</a>
     <p align="center"><br>
    <a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">🐛Report Bug</a>
    .

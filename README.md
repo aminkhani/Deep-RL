@@ -34,13 +34,13 @@
     .
     <a href="https://github.com/aminkhani/Deep-RL#gear-projects">⚙️Projects</a>
     <p align="center"><br>
-   <a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">🐛Report Bug</a>
+   <a href="https://github.com/aminkhani/Deep-RL/issues/new?assignees=&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">🐛Report Bug</a>
    .
-   <a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=question&template=question.yml&title=%5BQUESTION%5D%3A+">❓Ask Question</a>
+   <a href="https://github.com/aminkhani/Deep-RL/issues/new?assignees=&labels=question&template=question.yml&title=%5BQUESTION%5D%3A+">❓Ask Question</a>
    .
-  <a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=like&template=like.yml&title=%5BLIKE%5D%3A+">👍Like the repo</a>
+  <a href="https://github.com/aminkhani/Deep-RL/issues/new?assignees=&labels=like&template=like.yml&title=%5BLIKE%5D%3A+">👍Like the repo</a>
   .
-  <a href="https://github.com/aminkhani/Reinforcement-Learning/issues/new?assignees=&labels=unlike&template=unlike.yml&title=%5BUNLIKE%5D%3A+">👎Dislike the repo</a>
+  <a href="https://github.com/aminkhani/Deep-RL/issues/new?assignees=&labels=unlike&template=unlike.yml&title=%5BUNLIKE%5D%3A+">👎Dislike the repo</a>
   </p>
   </p>
 </div><br /><br />
@@ -70,7 +70,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
 <div align="center">
 <img src=".github/roadmap.png">
 </div><br>
-<div align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+<div align="right"><a href="https://github.com/aminkhani/Deep-RL#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 
 # :books: Books
 
@@ -290,7 +290,7 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
   <a href="https://jonathan-hui.medium.com/rl-basics-algorithms-and-terms-ae98314851d7">:link: RL — Basics algorithms and terms</a><br>
   <a href="https://towardsdatascience.com/the-complete-reinforcement-learning-dictionary-e16230b7d24e">:link: The Complete Reinforcement Learning Dictionary</a><br>
 
-<div  align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+<div  align="right"><a href="https://github.com/aminkhani/Deep-RL#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 
 # :gear: Projects
   ### ``` 1- Space Invader ```
@@ -339,4 +339,4 @@ Reinforcement learning (RL) is a field of machine learning concerned with how in
   
   <a href="/env" targert="_blacnk"><img src="https://img.shields.io/badge/See The Project-green?style=for-the-badge&logo=plex&logoColor=white" alt="Read the Paper Badge"/></a>
 
-<div  align="right"><a href="https://github.com/aminkhani/Reinforcement-Learning#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+<div  align="right"><a href="https://github.com/aminkhani/Deep-RL#reinforcement-learning" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
